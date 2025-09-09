@@ -1,4 +1,4 @@
-# Sign-In Logs Monitoring
+# Entra AD Sign-In Logs 
 
 This PowerShell script connects to Microsoft Graph to retrieve and analyze Azure AD sign-in activity for members of a specific group.
 
